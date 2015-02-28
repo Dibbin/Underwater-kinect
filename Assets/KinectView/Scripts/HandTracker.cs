@@ -185,28 +185,29 @@ public class HandTracker : MonoBehaviour
 //			print (body.HandRightState + " else");
 		}
 
-
-		for (Kinect.JointType jt = Kinect.JointType.SpineBase; jt <= Kinect.JointType.ThumbRight; jt++)
-		{
+		Kinect.JointType jt = Kinect.JointType.Head;
+		//for (Kinect.JointType jt = Kinect.JointType.SpineBase; jt <= Kinect.JointType.ThumbRight; jt++)
+		//{
 
 //			print (jt);
 //			print (body.HandRightState);
 //			Console.WriteLine("spam");
 //			if(jt == "HandRight" || "HandTipRight" || "ThumbRight" || "WristRight" || "ElbowRight" || "ShoulderRight" || "SpineShoulder" )
-			if(jt == Kinect.JointType.HandTipRight //|| 
+		//	if(jt == Kinect.JointType.Head //|| 
 			   //jt == Kinect.JointType.HandTipRight || 
 			   //jt == Kinect.JointType.WristRight || 
 			   //jt == Kinect.JointType.ThumbRight
-			   )
-			{
+		//	   )
+		//	{
 
 				Kinect.Joint sourceJoint = body.Joints[jt];
-				Kinect.Joint? targetJoint = null;
+			/*	Kinect.Joint? targetJoint = null;
 			
 				if(_BoneMap.ContainsKey(jt))
 				{
 					targetJoint = body.Joints[_BoneMap[jt]];
 				}
+				*/
 			
 				//Transform jointObj = bodyObject.transform.FindChild(jt.ToString());
 				//jointObj.localPosition = GetVector3FromJoint(sourceJoint);
@@ -214,14 +215,14 @@ public class HandTracker : MonoBehaviour
 //				print (jointObj);
 			
 				//LineRenderer lr = jointObj.GetComponent<LineRenderer>();
-				if(targetJoint.HasValue)
-				{
+			//	if(sourceJoint)
+				//{
 
-					rightHandPosition = GetVector3FromJoint(targetJoint.Value);
+					rightHandPosition = GetVector3FromJoint(sourceJoint);
 
 					//set hand position on screen
 					
-					var handObjects = GameObject.FindGameObjectsWithTag("Hand");
+					var handObjects = GameObject.FindGameObjectsWithTag("Head");
 					var handOpen = handObjects[0];
 
 					handOpen.transform.localPosition = rightHandPosition;
@@ -231,14 +232,14 @@ public class HandTracker : MonoBehaviour
 
 
 
-				}
-				else
-				{
+				//}
+				//else
+				//{
 					//lr.enabled = false;
-				}
+				//}
 
-			}
-		}
+		//	}
+	//	}
 	}
 	
 	private static Color GetColorForState(Kinect.TrackingState state)
