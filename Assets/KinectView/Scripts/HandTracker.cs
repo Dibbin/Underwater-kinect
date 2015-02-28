@@ -221,65 +221,15 @@ public class HandTracker : MonoBehaviour
 
 					//set hand position on screen
 					
-					var handObjects = GameObject.FindGameObjectsWithTag("HandClosed");
-					var handClosed = handObjects[0];
-					handObjects = GameObject.FindGameObjectsWithTag("Hand");
+					var handObjects = GameObject.FindGameObjectsWithTag("Hand");
 					var handOpen = handObjects[0];
 
-					if(isGrabbing){
-						handObjects = GameObject.FindGameObjectsWithTag("HandClosed");
-						handClosed.transform.localPosition = rightHandPosition;
-					}else{
-						handObjects = GameObject.FindGameObjectsWithTag("Hand");
-						handOpen.transform.localPosition = rightHandPosition;
-					}
+					handOpen.transform.localPosition = rightHandPosition;
 
 					//lr.SetPosition(0, jointObj.localPosition);
 					//lr.SetPosition(1, GetVector3FromJoint(targetJoint.Value));
 
-					if(body.HandRightState == Kinect.HandState.Open)
-					{
-						if(isGrabbing)
-						{
-							isGrabbing = false;
-							//print ("Hand released");
-							//print ("Hand x:" + rightHandPosition.x + ", y:" + rightHandPosition.y + ", z:" + rightHandPosition.z);
-							handClosed.transform.localPosition = new Vector3(-9999,-9999,-9999);
-							handOpen.transform.localPosition = rightHandPosition;
-						}
-//						print (body.HandRightState + " if");	
-						//lr.SetColors(GetColorForState (sourceJoint.TrackingState), GetColorForState(targetJoint.Value.TrackingState));
-//						bodyObject = GameObject.CreatePrimitive(PrimitiveType.Capsule);
 
-					}
-					else if (body.HandRightState == Kinect.HandState.Closed)
-					{
-						if(!isGrabbing)
-						{
-							isGrabbing = true;
-							//print ("Hand grabbed");
-							//print ("Hand x:" + rightHandPosition.x + ", y:" + rightHandPosition.y + ", z:" + rightHandPosition.z);
-							handOpen.transform.localPosition = new Vector3(-9999,-9999,-9999);
-							handClosed.transform.localPosition = rightHandPosition;
-							
-							var grabObjects = GameObject.FindGameObjectsWithTag("GrabTimer");
-							var grabTimer = grabObjects[0].GetComponent<UnityEngine.UI.Slider>();
-
-							//var grabTimer = grabObjects[0];
-							grabTimer.value = 0.5f;
-							//Debug.Log ("asdf");
-
-
-						}
-						//lr.SetColors(new Color(1, 1, 1, 0), new Color(1, 1, 1, 0));
-//						jointObj = GameObject.CreatePrimitive(PrimitiveType.Cube);
-					}
-					else
-					{
-//						print (body.HandRightState + " else");
-//						lr.SetColors( new Color(1, 1, 1, 0), new Color(1, 1, 1, 0));
-						//lr.SetColors(GetColorForState (sourceJoint.TrackingState), GetColorForState(targetJoint.Value.TrackingState));
-					}
 
 				}
 				else
