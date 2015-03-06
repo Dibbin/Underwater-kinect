@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e3053700549614448846eaecc4300ca4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: kelp1Main_kelp1MeshGroup kelp_grp life_grp
+    100002: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf
+    100004: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf1
+    100006: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf2
+    100008: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf3
+    100010: kelp_grp_life_grp kelp2Main kelp2MeshGroup
+    100012: kelp_grp_life_grp kelp2MeshGroup kelp2Leaf
+    100014: kelp_grp_life_grp kelp3Main kelp3MeshGroup
+    100016: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf
+    100018: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf1
+    100020: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf2
+    100022: kelp_grp_life_grp kelp4Main kelp4MeshGroup
+    100024: kelp_grp_life_grp kelp4MeshGroup kelp4Leaf
+    100026: kelp_grp_life_grp kelp5Main kelp5MeshGroup
+    100028: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf
+    100030: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf1
+    100032: kelp_grp_life_grp kelp5MeshGroup kelp5Main1
+    100034: //RootNode
+    400000: kelp1Main_kelp1MeshGroup kelp_grp life_grp
+    400002: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf
+    400004: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf1
+    400006: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf2
+    400008: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf3
+    400010: kelp_grp_life_grp kelp2Main kelp2MeshGroup
+    400012: kelp_grp_life_grp kelp2MeshGroup kelp2Leaf
+    400014: kelp_grp_life_grp kelp3Main kelp3MeshGroup
+    400016: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf
+    400018: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf1
+    400020: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf2
+    400022: kelp_grp_life_grp kelp4Main kelp4MeshGroup
+    400024: kelp_grp_life_grp kelp4MeshGroup kelp4Leaf
+    400026: kelp_grp_life_grp kelp5Main kelp5MeshGroup
+    400028: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf
+    400030: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf1
+    400032: kelp_grp_life_grp kelp5MeshGroup kelp5Main1
+    400034: //RootNode
+    2300000: kelp1Main_kelp1MeshGroup kelp_grp life_grp
+    2300002: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf
+    2300004: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf1
+    2300006: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf2
+    2300008: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf3
+    2300010: kelp_grp_life_grp kelp2Main kelp2MeshGroup
+    2300012: kelp_grp_life_grp kelp2MeshGroup kelp2Leaf
+    2300014: kelp_grp_life_grp kelp3Main kelp3MeshGroup
+    2300016: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf
+    2300018: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf1
+    2300020: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf2
+    2300022: kelp_grp_life_grp kelp4Main kelp4MeshGroup
+    2300024: kelp_grp_life_grp kelp4MeshGroup kelp4Leaf
+    2300026: kelp_grp_life_grp kelp5Main kelp5MeshGroup
+    2300028: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf
+    2300030: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf1
+    2300032: kelp_grp_life_grp kelp5MeshGroup kelp5Main1
+    3300000: kelp1Main_kelp1MeshGroup kelp_grp life_grp
+    3300002: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf
+    3300004: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf1
+    3300006: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf2
+    3300008: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf3
+    3300010: kelp_grp_life_grp kelp2Main kelp2MeshGroup
+    3300012: kelp_grp_life_grp kelp2MeshGroup kelp2Leaf
+    3300014: kelp_grp_life_grp kelp3Main kelp3MeshGroup
+    3300016: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf
+    3300018: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf1
+    3300020: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf2
+    3300022: kelp_grp_life_grp kelp4Main kelp4MeshGroup
+    3300024: kelp_grp_life_grp kelp4MeshGroup kelp4Leaf
+    3300026: kelp_grp_life_grp kelp5Main kelp5MeshGroup
+    3300028: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf
+    3300030: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf1
+    3300032: kelp_grp_life_grp kelp5MeshGroup kelp5Main1
+    4300000: kelp1Main_kelp1MeshGroup kelp_grp life_grp
+    4300002: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf
+    4300004: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf1
+    4300006: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf2
+    4300008: kelp1MeshGroup_kelp_grp life_grp kelp1Leaf3
+    4300010: kelp_grp_life_grp kelp2Main kelp2MeshGroup
+    4300012: kelp_grp_life_grp kelp2MeshGroup kelp2Leaf
+    4300014: kelp_grp_life_grp kelp3Main kelp3MeshGroup
+    4300016: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf
+    4300018: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf1
+    4300020: kelp_grp_life_grp kelp3MeshGroup kelp3Leaf2
+    4300022: kelp_grp_life_grp kelp4Main kelp4MeshGroup
+    4300024: kelp_grp_life_grp kelp4MeshGroup kelp4Leaf
+    4300026: kelp_grp_life_grp kelp5Main kelp5MeshGroup
+    4300028: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf
+    4300030: kelp_grp_life_grp kelp5MeshGroup kelp5Leaf1
+    4300032: kelp_grp_life_grp kelp5MeshGroup kelp5Main1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

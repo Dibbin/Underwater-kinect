@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 296a5cc485b8dee4bbce882106e283b0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube62_rocks_grp
+    100004: rocks_grp_pCube100
+    100006: rocks_grp_pCube63
+    100008: rocks_grp_pCube64
+    100010: rocks_grp_pCube65
+    100012: rocks_grp_pCube66
+    100014: rocks_grp_pCube67
+    100016: rocks_grp_pCube68
+    100018: rocks_grp_pCube70
+    100020: rocks_grp_pCube71
+    100022: rocks_grp_pCube72
+    100024: rocks_grp_pCube73
+    100026: rocks_grp_pCube74
+    100028: rocks_grp_pCube75
+    100030: rocks_grp_pCube76
+    100032: rocks_grp_pCube77
+    100034: rocks_grp_pCube78
+    100036: rocks_grp_pCube79
+    100038: rocks_grp_pCube80
+    100040: rocks_grp_pCube81
+    100042: rocks_grp_pCube82
+    100044: rocks_grp_pCube83
+    100046: rocks_grp_pCube84
+    100048: rocks_grp_pCube85
+    100050: rocks_grp_pCube86
+    100052: rocks_grp_pCube87
+    100054: rocks_grp_pCube88
+    100056: rocks_grp_pCube89
+    100058: rocks_grp_pCube90
+    100060: rocks_grp_pCube91
+    100062: rocks_grp_pCube92
+    100064: rocks_grp_pCube93
+    100066: rocks_grp_pCube95
+    100068: rocks_grp_pCube97
+    100070: rocks_grp_pCube98
+    100072: rocks_grp_pCube99
+    100074: rocks_grp_pebbles35Main pebbles35MeshGroup pebbles_grp
+    100076: rocks_grp_pebbles_grp pebbles35Main
+    100078: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup1
+    100080: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup10
+    100082: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup11
+    100084: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup12
+    100086: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup13
+    100088: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup14
+    100090: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup15
+    100092: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup16
+    100094: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup17
+    100096: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup18
+    100098: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup19
+    100100: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup20
+    100102: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup21
+    100104: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup22
+    100106: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup23
+    100108: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup24
+    100110: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup25
+    100112: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup26
+    100114: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup27
+    100116: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup28
+    100118: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup29
+    100120: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup3
+    100122: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup30
+    100124: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup31
+    100126: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup32
+    100128: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup33
+    100130: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup4
+    100132: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup5
+    100134: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup6
+    100136: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup7
+    100138: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup8
+    100140: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup9
+    100142: rocks_grp_rock_L_01_geo
+    100144: rocks_grp_rock_L_04_geo
+    100146: rocks_grp_rock_L_04_geo1
+    100148: rocks_grp_rock_L_05_geo
+    100150: rocks_grp_rock_R_07_geo
+    400000: //RootNode
+    400002: pCube62_rocks_grp
+    400004: rocks_grp_pCube100
+    400006: rocks_grp_pCube63
+    400008: rocks_grp_pCube64
+    400010: rocks_grp_pCube65
+    400012: rocks_grp_pCube66
+    400014: rocks_grp_pCube67
+    400016: rocks_grp_pCube68
+    400018: rocks_grp_pCube70
+    400020: rocks_grp_pCube71
+    400022: rocks_grp_pCube72
+    400024: rocks_grp_pCube73
+    400026: rocks_grp_pCube74
+    400028: rocks_grp_pCube75
+    400030: rocks_grp_pCube76
+    400032: rocks_grp_pCube77
+    400034: rocks_grp_pCube78
+    400036: rocks_grp_pCube79
+    400038: rocks_grp_pCube80
+    400040: rocks_grp_pCube81
+    400042: rocks_grp_pCube82
+    400044: rocks_grp_pCube83
+    400046: rocks_grp_pCube84
+    400048: rocks_grp_pCube85
+    400050: rocks_grp_pCube86
+    400052: rocks_grp_pCube87
+    400054: rocks_grp_pCube88
+    400056: rocks_grp_pCube89
+    400058: rocks_grp_pCube90
+    400060: rocks_grp_pCube91
+    400062: rocks_grp_pCube92
+    400064: rocks_grp_pCube93
+    400066: rocks_grp_pCube95
+    400068: rocks_grp_pCube97
+    400070: rocks_grp_pCube98
+    400072: rocks_grp_pCube99
+    400074: rocks_grp_pebbles35Main pebbles35MeshGroup pebbles_grp
+    400076: rocks_grp_pebbles_grp pebbles35Main
+    400078: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup1
+    400080: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup10
+    400082: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup11
+    400084: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup12
+    400086: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup13
+    400088: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup14
+    400090: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup15
+    400092: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup16
+    400094: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup17
+    400096: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup18
+    400098: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup19
+    400100: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup20
+    400102: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup21
+    400104: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup22
+    400106: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup23
+    400108: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup24
+    400110: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup25
+    400112: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup26
+    400114: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup27
+    400116: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup28
+    400118: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup29
+    400120: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup3
+    400122: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup30
+    400124: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup31
+    400126: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup32
+    400128: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup33
+    400130: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup4
+    400132: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup5
+    400134: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup6
+    400136: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup7
+    400138: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup8
+    400140: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup9
+    400142: rocks_grp_rock_L_01_geo
+    400144: rocks_grp_rock_L_04_geo
+    400146: rocks_grp_rock_L_04_geo1
+    400148: rocks_grp_rock_L_05_geo
+    400150: rocks_grp_rock_R_07_geo
+    2300000: pCube62_rocks_grp
+    2300002: rocks_grp_pCube100
+    2300004: rocks_grp_pCube63
+    2300006: rocks_grp_pCube64
+    2300008: rocks_grp_pCube65
+    2300010: rocks_grp_pCube66
+    2300012: rocks_grp_pCube67
+    2300014: rocks_grp_pCube68
+    2300016: rocks_grp_pCube70
+    2300018: rocks_grp_pCube71
+    2300020: rocks_grp_pCube72
+    2300022: rocks_grp_pCube73
+    2300024: rocks_grp_pCube74
+    2300026: rocks_grp_pCube75
+    2300028: rocks_grp_pCube76
+    2300030: rocks_grp_pCube77
+    2300032: rocks_grp_pCube78
+    2300034: rocks_grp_pCube79
+    2300036: rocks_grp_pCube80
+    2300038: rocks_grp_pCube81
+    2300040: rocks_grp_pCube82
+    2300042: rocks_grp_pCube83
+    2300044: rocks_grp_pCube84
+    2300046: rocks_grp_pCube85
+    2300048: rocks_grp_pCube86
+    2300050: rocks_grp_pCube87
+    2300052: rocks_grp_pCube88
+    2300054: rocks_grp_pCube89
+    2300056: rocks_grp_pCube90
+    2300058: rocks_grp_pCube91
+    2300060: rocks_grp_pCube92
+    2300062: rocks_grp_pCube93
+    2300064: rocks_grp_pCube95
+    2300066: rocks_grp_pCube97
+    2300068: rocks_grp_pCube98
+    2300070: rocks_grp_pCube99
+    2300072: rocks_grp_pebbles35Main pebbles35MeshGroup pebbles_grp
+    2300074: rocks_grp_pebbles_grp pebbles35Main
+    2300076: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup1
+    2300078: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup10
+    2300080: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup11
+    2300082: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup12
+    2300084: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup13
+    2300086: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup14
+    2300088: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup15
+    2300090: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup16
+    2300092: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup17
+    2300094: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup18
+    2300096: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup19
+    2300098: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup20
+    2300100: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup21
+    2300102: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup22
+    2300104: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup23
+    2300106: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup24
+    2300108: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup25
+    2300110: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup26
+    2300112: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup27
+    2300114: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup28
+    2300116: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup29
+    2300118: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup3
+    2300120: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup30
+    2300122: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup31
+    2300124: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup32
+    2300126: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup33
+    2300128: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup4
+    2300130: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup5
+    2300132: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup6
+    2300134: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup7
+    2300136: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup8
+    2300138: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup9
+    2300140: rocks_grp_rock_L_01_geo
+    2300142: rocks_grp_rock_L_04_geo
+    2300144: rocks_grp_rock_L_04_geo1
+    2300146: rocks_grp_rock_L_05_geo
+    2300148: rocks_grp_rock_R_07_geo
+    3300000: pCube62_rocks_grp
+    3300002: rocks_grp_pCube100
+    3300004: rocks_grp_pCube63
+    3300006: rocks_grp_pCube64
+    3300008: rocks_grp_pCube65
+    3300010: rocks_grp_pCube66
+    3300012: rocks_grp_pCube67
+    3300014: rocks_grp_pCube68
+    3300016: rocks_grp_pCube70
+    3300018: rocks_grp_pCube71
+    3300020: rocks_grp_pCube72
+    3300022: rocks_grp_pCube73
+    3300024: rocks_grp_pCube74
+    3300026: rocks_grp_pCube75
+    3300028: rocks_grp_pCube76
+    3300030: rocks_grp_pCube77
+    3300032: rocks_grp_pCube78
+    3300034: rocks_grp_pCube79
+    3300036: rocks_grp_pCube80
+    3300038: rocks_grp_pCube81
+    3300040: rocks_grp_pCube82
+    3300042: rocks_grp_pCube83
+    3300044: rocks_grp_pCube84
+    3300046: rocks_grp_pCube85
+    3300048: rocks_grp_pCube86
+    3300050: rocks_grp_pCube87
+    3300052: rocks_grp_pCube88
+    3300054: rocks_grp_pCube89
+    3300056: rocks_grp_pCube90
+    3300058: rocks_grp_pCube91
+    3300060: rocks_grp_pCube92
+    3300062: rocks_grp_pCube93
+    3300064: rocks_grp_pCube95
+    3300066: rocks_grp_pCube97
+    3300068: rocks_grp_pCube98
+    3300070: rocks_grp_pCube99
+    3300072: rocks_grp_pebbles35Main pebbles35MeshGroup pebbles_grp
+    3300074: rocks_grp_pebbles_grp pebbles35Main
+    3300076: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup1
+    3300078: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup10
+    3300080: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup11
+    3300082: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup12
+    3300084: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup13
+    3300086: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup14
+    3300088: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup15
+    3300090: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup16
+    3300092: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup17
+    3300094: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup18
+    3300096: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup19
+    3300098: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup20
+    3300100: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup21
+    3300102: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup22
+    3300104: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup23
+    3300106: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup24
+    3300108: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup25
+    3300110: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup26
+    3300112: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup27
+    3300114: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup28
+    3300116: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup29
+    3300118: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup3
+    3300120: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup30
+    3300122: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup31
+    3300124: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup32
+    3300126: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup33
+    3300128: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup4
+    3300130: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup5
+    3300132: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup6
+    3300134: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup7
+    3300136: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup8
+    3300138: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup9
+    3300140: rocks_grp_rock_L_01_geo
+    3300142: rocks_grp_rock_L_04_geo
+    3300144: rocks_grp_rock_L_04_geo1
+    3300146: rocks_grp_rock_L_05_geo
+    3300148: rocks_grp_rock_R_07_geo
+    4300000: pCube62_rocks_grp
+    4300002: rocks_grp_pCube100
+    4300004: rocks_grp_pCube63
+    4300006: rocks_grp_pCube64
+    4300008: rocks_grp_pCube65
+    4300010: rocks_grp_pCube66
+    4300012: rocks_grp_pCube67
+    4300014: rocks_grp_pCube68
+    4300016: rocks_grp_pCube70
+    4300018: rocks_grp_pCube71
+    4300020: rocks_grp_pCube72
+    4300022: rocks_grp_pCube73
+    4300024: rocks_grp_pCube74
+    4300026: rocks_grp_pCube75
+    4300028: rocks_grp_pCube76
+    4300030: rocks_grp_pCube77
+    4300032: rocks_grp_pCube78
+    4300034: rocks_grp_pCube79
+    4300036: rocks_grp_pCube80
+    4300038: rocks_grp_pCube81
+    4300040: rocks_grp_pCube82
+    4300042: rocks_grp_pCube83
+    4300044: rocks_grp_pCube84
+    4300046: rocks_grp_pCube85
+    4300048: rocks_grp_pCube86
+    4300050: rocks_grp_pCube87
+    4300052: rocks_grp_pCube88
+    4300054: rocks_grp_pCube89
+    4300056: rocks_grp_pCube90
+    4300058: rocks_grp_pCube91
+    4300060: rocks_grp_pCube92
+    4300062: rocks_grp_pCube93
+    4300064: rocks_grp_pCube95
+    4300066: rocks_grp_pCube97
+    4300068: rocks_grp_pCube98
+    4300070: rocks_grp_pCube99
+    4300072: rocks_grp_pebbles35Main pebbles35MeshGroup pebbles_grp
+    4300074: rocks_grp_pebbles_grp pebbles35Main
+    4300076: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup1
+    4300078: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup10
+    4300080: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup11
+    4300082: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup12
+    4300084: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup13
+    4300086: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup14
+    4300088: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup15
+    4300090: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup16
+    4300092: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup17
+    4300094: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup18
+    4300096: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup19
+    4300098: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup20
+    4300100: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup21
+    4300102: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup22
+    4300104: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup23
+    4300106: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup24
+    4300108: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup25
+    4300110: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup26
+    4300112: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup27
+    4300114: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup28
+    4300116: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup29
+    4300118: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup3
+    4300120: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup30
+    4300122: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup31
+    4300124: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup32
+    4300126: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup33
+    4300128: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup4
+    4300130: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup5
+    4300132: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup6
+    4300134: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup7
+    4300136: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup8
+    4300138: rocks_grp_pebbles_grp pebbles35Main pebbles35MeshGroup9
+    4300140: rocks_grp_rock_L_01_geo
+    4300142: rocks_grp_rock_L_04_geo
+    4300144: rocks_grp_rock_L_04_geo1
+    4300146: rocks_grp_rock_L_05_geo
+    4300148: rocks_grp_rock_R_07_geo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

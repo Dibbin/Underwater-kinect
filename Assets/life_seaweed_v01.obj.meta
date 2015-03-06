@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 1dc9bb739a5cdfe4bb50201212ce3603
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: seaweed92Main_seaweed92MeshGroup seaweedMesh2_grp
+    100004: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup1
+    100006: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup10
+    100008: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup11
+    100010: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup12
+    100012: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup13
+    100014: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup14
+    100016: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup15
+    100018: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup16
+    100020: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup17
+    100022: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup18
+    100024: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup19
+    100026: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup2
+    100028: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup20
+    100030: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup21
+    100032: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup22
+    100034: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup23
+    100036: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup24
+    100038: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup25
+    100040: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup26
+    100042: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup27
+    100044: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup28
+    100046: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup29
+    100048: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup3
+    100050: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup30
+    100052: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup31
+    100054: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup32
+    100056: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup33
+    100058: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup34
+    100060: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup35
+    100062: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup36
+    100064: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup37
+    100066: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup38
+    100068: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup39
+    100070: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup4
+    100072: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup40
+    100074: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup5
+    100076: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup6
+    100078: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup7
+    100080: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup8
+    100082: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup9
+    100084: seaweedMesh2_grp_seaweed92MeshGroup17 seaweed92Main1
+    100086: seaweedMesh2_grp_seaweed92MeshGroup33 seaweed92Main2
+    400000: //RootNode
+    400002: seaweed92Main_seaweed92MeshGroup seaweedMesh2_grp
+    400004: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup1
+    400006: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup10
+    400008: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup11
+    400010: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup12
+    400012: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup13
+    400014: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup14
+    400016: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup15
+    400018: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup16
+    400020: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup17
+    400022: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup18
+    400024: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup19
+    400026: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup2
+    400028: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup20
+    400030: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup21
+    400032: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup22
+    400034: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup23
+    400036: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup24
+    400038: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup25
+    400040: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup26
+    400042: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup27
+    400044: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup28
+    400046: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup29
+    400048: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup3
+    400050: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup30
+    400052: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup31
+    400054: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup32
+    400056: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup33
+    400058: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup34
+    400060: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup35
+    400062: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup36
+    400064: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup37
+    400066: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup38
+    400068: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup39
+    400070: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup4
+    400072: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup40
+    400074: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup5
+    400076: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup6
+    400078: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup7
+    400080: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup8
+    400082: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup9
+    400084: seaweedMesh2_grp_seaweed92MeshGroup17 seaweed92Main1
+    400086: seaweedMesh2_grp_seaweed92MeshGroup33 seaweed92Main2
+    2300000: seaweed92Main_seaweed92MeshGroup seaweedMesh2_grp
+    2300002: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup1
+    2300004: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup10
+    2300006: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup11
+    2300008: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup12
+    2300010: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup13
+    2300012: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup14
+    2300014: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup15
+    2300016: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup16
+    2300018: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup17
+    2300020: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup18
+    2300022: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup19
+    2300024: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup2
+    2300026: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup20
+    2300028: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup21
+    2300030: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup22
+    2300032: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup23
+    2300034: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup24
+    2300036: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup25
+    2300038: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup26
+    2300040: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup27
+    2300042: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup28
+    2300044: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup29
+    2300046: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup3
+    2300048: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup30
+    2300050: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup31
+    2300052: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup32
+    2300054: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup33
+    2300056: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup34
+    2300058: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup35
+    2300060: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup36
+    2300062: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup37
+    2300064: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup38
+    2300066: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup39
+    2300068: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup4
+    2300070: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup40
+    2300072: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup5
+    2300074: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup6
+    2300076: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup7
+    2300078: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup8
+    2300080: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup9
+    2300082: seaweedMesh2_grp_seaweed92MeshGroup17 seaweed92Main1
+    2300084: seaweedMesh2_grp_seaweed92MeshGroup33 seaweed92Main2
+    3300000: seaweed92Main_seaweed92MeshGroup seaweedMesh2_grp
+    3300002: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup1
+    3300004: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup10
+    3300006: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup11
+    3300008: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup12
+    3300010: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup13
+    3300012: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup14
+    3300014: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup15
+    3300016: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup16
+    3300018: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup17
+    3300020: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup18
+    3300022: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup19
+    3300024: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup2
+    3300026: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup20
+    3300028: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup21
+    3300030: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup22
+    3300032: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup23
+    3300034: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup24
+    3300036: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup25
+    3300038: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup26
+    3300040: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup27
+    3300042: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup28
+    3300044: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup29
+    3300046: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup3
+    3300048: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup30
+    3300050: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup31
+    3300052: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup32
+    3300054: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup33
+    3300056: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup34
+    3300058: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup35
+    3300060: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup36
+    3300062: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup37
+    3300064: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup38
+    3300066: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup39
+    3300068: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup4
+    3300070: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup40
+    3300072: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup5
+    3300074: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup6
+    3300076: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup7
+    3300078: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup8
+    3300080: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup9
+    3300082: seaweedMesh2_grp_seaweed92MeshGroup17 seaweed92Main1
+    3300084: seaweedMesh2_grp_seaweed92MeshGroup33 seaweed92Main2
+    4300000: seaweed92Main_seaweed92MeshGroup seaweedMesh2_grp
+    4300002: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup1
+    4300004: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup10
+    4300006: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup11
+    4300008: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup12
+    4300010: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup13
+    4300012: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup14
+    4300014: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup15
+    4300016: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup16
+    4300018: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup17
+    4300020: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup18
+    4300022: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup19
+    4300024: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup2
+    4300026: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup20
+    4300028: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup21
+    4300030: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup22
+    4300032: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup23
+    4300034: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup24
+    4300036: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup25
+    4300038: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup26
+    4300040: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup27
+    4300042: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup28
+    4300044: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup29
+    4300046: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup3
+    4300048: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup30
+    4300050: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup31
+    4300052: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup32
+    4300054: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup33
+    4300056: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup34
+    4300058: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup35
+    4300060: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup36
+    4300062: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup37
+    4300064: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup38
+    4300066: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup39
+    4300068: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup4
+    4300070: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup40
+    4300072: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup5
+    4300074: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup6
+    4300076: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup7
+    4300078: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup8
+    4300080: seaweedMesh2_grp_seaweed92Main seaweed92MeshGroup9
+    4300082: seaweedMesh2_grp_seaweed92MeshGroup17 seaweed92Main1
+    4300084: seaweedMesh2_grp_seaweed92MeshGroup33 seaweed92Main2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
